@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Joshua:Fuckyourithum11@rithum.nszoeer.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Joshua:Fuckyourithum11@rithum.nszoeer.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "secretsecretigotasecret123"
 }
